@@ -1,13 +1,19 @@
 # Olá, eu sou o Fernando 👋
 
-## 🚀 Sobre mim
-Bacharel em Ciência da Computação, sou uma pessoa com boa comunicação e que adora trabalhar em equipe e vivenciar novos desafios. Aliado a isso, possuo formação em Inglês.
+## 🧑 Sobre mim
+Bacharel em Ciência da Computação pela Universidade Franciscana, tenho facilidade de comunicação, sou proativo e gosto de trabalhar em equipe, sempre em busca de novos desafios. Possuo também formação em inglês e experiência nos setores de educação (sistemas para escolas de idiomas) e software empresarial (ERP), atuando em projetos que impactaram centenas de usuários.
 
-Tenho experiência em programação backend, modelagem e utilização de bancos de dados. Há anos trabalho com versionamento de código e de base de dados. Venho, cada vez mais, aprofundando conhecimentos em PHP, Laravel, JavaScript e seus frameworks e bibliotecas para backend e frontend. Trabalhei no ramo da educação em curso de idiomas e sistemas empresariais (ERP) impactando centenas de usuários.
+Sou desenvolvedor full stack com foco em back-end, com experiência em arquitetura MVC, testes automatizados, bancos de dados relacionais e construção de APIs. Tenho interesse por design de interfaces e otimização de performance no front-end.
 
-Possuo conhecimento em testes automatizados, deploy e arquitetura MVC. Além da experiência em backend, gosto de me aventurar em programar layouts para ver o impacto visual causado nos usuários das aplicações. Adoro participar da criação de novos projetos e estar a par das necessidades dos clientes.
+Gosto de participar da criação de novos projetos, aprender novas tecnologias e compreender as necessidades dos clientes para entregar soluções com real valor.
 
-Ah, também tenho, como hobby, a música. 🎤
+🎤 Tenho a música como hobby.
+
+## 🔧 Stack principal:
+- PHP e Laravel;
+- SQL, MySQL, PostgreSQL;
+- Programação orientada a objetos, boas práticas de código limpo, testes automatizados, Linux;
+- HTML, JavaScript (ES6), Tailwind CSS, ReactJS.
 
 ## 🛠 Tecnologias & Ferramentas
 ![PHP](https://img.shields.io/badge/PHP-432dd7) ![Laravel](https://img.shields.io/badge/Laravel-ff6467) ![JavaScript](https://img.shields.io/badge/JavaScript-ffdf20) ![HTML](https://img.shields.io/badge/HTML-ff6900) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3996db)
