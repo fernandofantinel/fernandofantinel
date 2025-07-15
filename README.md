@@ -20,6 +20,8 @@ Gosto de participar da criação de novos projetos, aprender novas tecnologias e
 - curso.dev (Filipe Deschamps)
 - Rocketseat ONE (Formação PHP e Laravel)
 
+<a href="https://app.rocketseat.com.br/me/fernandofantinel"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=fernandofantinel&type=card" width="128" alt="Fernando Fantinel's Rocket ID"/></a>
+
 ## 📂 Projetos em destaque
 ### 🖼️ Portfólio Pessoal
 Site responsivo feito em HTML, Tailwind CSS e JavaScript.  
