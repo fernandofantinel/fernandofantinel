@@ -1,9 +1,9 @@
 # Olá, eu sou o Fernando 👋
 
 ## 🧑 Sobre mim
-Sou Bacharel em Ciência da Computação pela Universidade Franciscana e desenvolvedor full stack com foco em back-end.
+Sou Bacharel em Ciência da Computação pela Universidade Franciscana e desenvolvedor full stack com foco em backend.
 
-Tenho experiência com arquitetura MVC, testes automatizados, bancos de dados relacionais e construção de APIs. Também gosto de trabalhar com o front-end, especialmente pensando na performance e na experiência do usuário.
+Tenho experiência com arquitetura MVC, testes automatizados, bancos de dados relacionais e construção de APIs. Também gosto de trabalhar com o frontend, especialmente pensando na performance e na experiência do usuário.
 
 Atuei tanto na área de educação (sistemas para escolas de idiomas) quanto em software empresarial (ERP), impactando centenas de usuários com soluções robustas e eficientes.
 
@@ -12,8 +12,8 @@ Gosto de participar da criação de novos projetos, aprender novas tecnologias e
 🎤 Tenho a música como hobby.
 
 ## 🚀 Tecnologias que uso no dia a dia
-- **Back-end**: PHP, Laravel, MySQL, PostgreSQL
-- **Front-end**: HTML, Tailwind CSS, JavaScript (ES6), ReactJS
+- **Backend**: PHP, Laravel, MySQL, PostgreSQL
+- **Frontend**: HTML, Tailwind CSS, JavaScript (ES6), ReactJS
 - **Outros**: Git, Linux, testes automatizados, OOP, Clean Code
 
 ## 📚 Atualmente estudando
