@@ -55,7 +55,9 @@ I also enjoy working on the frontend with **React and Vue**, focusing on perform
 ### 🖼️ Personal Portfolio
 
 Responsive website built with HTML, Tailwind CSS, and JavaScript
+
 🔗 [https://github.com/fernandofantinel/portfolio-static](https://github.com/fernandofantinel/portfolio-static)
+
 🌐 [https://portfolio.fantinel.dev.br/](https://portfolio.fantinel.dev.br/)
 
 ---
@@ -65,7 +67,9 @@ Responsive website built with HTML, Tailwind CSS, and JavaScript
 A full rebuild of tabnews.com.br from scratch using modern web technologies.
 
 **Tech:** JavaScript, Node.js, Next.js, Jest, PostgreSQL
+
 🔗 [https://github.com/fernandofantinel/clone-tabnews](https://github.com/fernandofantinel/clone-tabnews)
+
 🌐 [https://clone-tabnews.fantinel.dev.br/api/v1/status](https://clone-tabnews.fantinel.dev.br/api/v1/status)
 
 ---
@@ -75,7 +79,9 @@ A full rebuild of tabnews.com.br from scratch using modern web technologies.
 A fun project created for social interaction and entertainment.
 
 **Tech:** React, Tailwind CSS
+
 🔗 [https://github.com/fernandofantinel/karaoke-roulette](https://github.com/fernandofantinel/karaoke-roulette)
+
 🌐 [https://karaoke-roulette.vercel.app/](https://karaoke-roulette.vercel.app/)
 
 ---
