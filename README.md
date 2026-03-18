@@ -1,49 +1,99 @@
-# Olá, eu sou o Fernando 👋
+# Hi, I'm Fernando 👋
 
-## 🧑 Sobre mim
-Sou Bacharel em Ciência da Computação pela Universidade Franciscana e desenvolvedor full stack com foco em backend.
+🚀 Full Stack Developer (Backend-focused) | PHP • Laravel
 
-Tenho experiência com arquitetura MVC, testes automatizados, bancos de dados relacionais e construção de APIs. Também gosto de trabalhar com o frontend, especialmente pensando na performance e na experiência do usuário.
+---
 
-Atuei tanto na área de educação (sistemas para escolas de idiomas) quanto em software empresarial (ERP), impactando centenas de usuários com soluções robustas e eficientes.
+## 🧑‍💻 About Me
 
-Gosto de participar da criação de novos projetos, aprender novas tecnologias e compreender as necessidades dos clientes para entregar soluções com real valor.
+I'm a Full Stack Developer with a strong focus on backend development using **PHP and Laravel**, experienced in building and evolving scalable web applications.
 
-🎤 Tenho a música como hobby.
+I’ve worked on real-world systems such as **CRM and ERP platforms**, impacting thousands of users and helping businesses manage their operations more efficiently.
 
-## 🚀 Tecnologias que uso no dia a dia
-- **Backend**: PHP, Laravel, MySQL, PostgreSQL
-- **Frontend**: HTML, Tailwind CSS, JavaScript (ES6), ReactJS
-- **Outros**: Git, Linux, testes automatizados, OOP, Clean Code
+My core expertise includes:
 
-## 📚 Atualmente estudando
-- curso.dev (Filipe Deschamps)
-- Rocketseat ONE (Formação PHP e Laravel)
+* Designing and building **REST APIs**
+* Working with **MVC architecture**
+* Modeling and optimizing **relational databases**
+* Integrating systems with external services
 
-<a href="https://app.rocketseat.com.br/me/fernandofantinel"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=fernandofantinel&type=card" width="280" alt="Fernando Fantinel's Rocket ID"/></a>
-## 📂 Projetos em destaque
-### 🖼️ Portfólio Pessoal
-Site responsivo feito em HTML, Tailwind CSS e JavaScript.  
-🔗 [Repositório](https://github.com/fernandofantinel/portfolio-static) • 🌐 [Acesse](https://portfolio.fantinel.dev.br/)
+I also enjoy working on the frontend with **React and Vue**, focusing on performance and user experience.
 
-### 👨‍💻 Site pessoal
-Site pessoal feito em HTML, CSS e JavaScript.  
-🔗 [Repositório](https://github.com/fernandofantinel/devlinks) • 🌐 [Acesse](https://fantinel.dev.br/)
+💡 I like to understand the "why" behind features and build solutions that deliver real value.
 
-### 💻 Clone Tabnews - projeto do curso.dev
-Recriação do zero do tabnews.com.br. Projeto feito no curso.dev com JavaScript, NodeJS, NextJS, Jest e PostgreSQL.   
-🔗 [Repositório](https://github.com/fernandofantinel/clone-tabnews) • 🌐 [Acesse](https://clone-tabnews.fantinel.dev.br/api/v1/status)
+🎸 Outside of tech, I enjoy playing music.
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+
+* PHP, Laravel
+
+**Frontend**
+
+* JavaScript (ES6+), React, Vue.js
+* HTML, Tailwind CSS
+
+**Databases**
+
+* MySQL, PostgreSQL
+
+**Tools & Practices**
+
+* Git, GitHub
+* CI/CD (GitHub Actions)
+* Docker
+* OOP, Clean Code, Automated Tests
+* Linux
+
+---
+
+## 📌 Featured Projects
+
+### 🖼️ Personal Portfolio
+
+Responsive website built with HTML, Tailwind CSS, and JavaScript
+🔗 [https://github.com/fernandofantinel/portfolio-static](https://github.com/fernandofantinel/portfolio-static)
+🌐 [https://portfolio.fantinel.dev.br/](https://portfolio.fantinel.dev.br/)
+
+---
+
+### 💻 TabNews Clone (curso.dev)
+
+A full rebuild of tabnews.com.br from scratch using modern web technologies.
+
+**Tech:** JavaScript, Node.js, Next.js, Jest, PostgreSQL
+🔗 [https://github.com/fernandofantinel/clone-tabnews](https://github.com/fernandofantinel/clone-tabnews)
+🌐 [https://clone-tabnews.fantinel.dev.br/api/v1/status](https://clone-tabnews.fantinel.dev.br/api/v1/status)
+
+---
 
 ### 🎶 Karaoke Roulette
-Um projeto criado apenas para se divertir cantando com os amigos. Feito com ReactJS e Tailwind CSS.  
-🔗 [Repositório](https://github.com/fernandofantinel/karaoke-roulette) • 🌐 [Acesse](https://karaoke-roulette.vercel.app/)
 
-## 📈 Estatísticas
-![Fernando’s GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandofantinel&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandofantinel&layout=compact)
+A fun project created for social interaction and entertainment.
 
-## 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernando-blue)](https://linkedin.com/in/fernando-fantinel)  
-[![GitHub](https://img.shields.io/badge/GitHub-Fernando-f0f6fc)](https://github.com/fernandofantinel)  
-✉️ fantinel89+github@gmail.com  
-🟢 Discord: fernandofantinel
+**Tech:** React, Tailwind CSS
+🔗 [https://github.com/fernandofantinel/karaoke-roulette](https://github.com/fernandofantinel/karaoke-roulette)
+🌐 [https://karaoke-roulette.vercel.app/](https://karaoke-roulette.vercel.app/)
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandofantinel\&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandofantinel\&layout=compact)
+
+---
+
+## 📬 Contact
+
+* LinkedIn: [https://linkedin.com/in/fernando-fantinel](https://linkedin.com/in/fernando-fantinel)
+* GitHub: [https://github.com/fernandofantinel](https://github.com/fernandofantinel)
+* Email: [fantinel89+github@gmail.com](mailto:fantinel89+github@gmail.com)
+* Discord: fernandofantinel
+
+---
+
+⭐ Feel free to explore my repositories and reach out if you'd like to collaborate!
